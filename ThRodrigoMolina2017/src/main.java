@@ -5,7 +5,7 @@ public class main {
 		
 		Conexion con = new Conexion();
 		
-		con.getConexion();
+		con.getConexion();;
 
 	}
 
